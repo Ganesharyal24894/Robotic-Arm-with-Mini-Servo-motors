@@ -1,4 +1,4 @@
-//WRITTEN BY TINKERER 
+//WRITTEN BY TINKERER / ganesh sharma 
 
 #include<Servo.h>
 Servo servo1, servo2, servo3, servo4;
